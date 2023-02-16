@@ -3,7 +3,11 @@ img{
     text-align: left;
     padding-top: 5px;position: relative;
 }
-
+ @media screen {
+    
+ }(max-width: 480px){
+    a{font-size:10px}
+ }
 .gach{
     height: auto;
     border: 0.1px solid white;
